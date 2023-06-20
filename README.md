@@ -1,4 +1,4 @@
-<img  href="./angular.png" align="left"/>
+ <img src="angular.png" with="80" height="80" align="right">
 <!-- https://angular.io/presskit-->
 
 # Curso Angular 13 
