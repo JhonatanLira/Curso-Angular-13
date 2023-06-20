@@ -11,37 +11,37 @@
     <th>
        02 - Primeiro Projeto
     </th>
-    <td>
-      ##### 03 - Estrutura do Angular
-    </td>
+    <th>
+      03 - Estrutura do Angular
+    </th>
   </tr>
   <tr>
-    <td>
-      ##### 04 - Criando componentes
-    </td>
-    <td>
-      ##### 05 - Dados no template
-    </td>
+    <th>
+      04 - Criando componentes
+    </th>
+    <th>
+      05 - Dados no template
+    </th>
     <!-- 
-    <td>
-      ##### 06 - CSS no Angular
-    </td>
+    <th>
+      06 - CSS no Angular
+    </th>
   </tr>
   <tr>
-    <td>
+    <th>
      07 - Compartilhamento de dados
-    </td>
-    <td>
-      ##### 08 - Diretivas do Angular
-    </td>
-     <td>
-      ##### 09 - Renderização condicional
-    </td>
+    </th>
+    <th>
+      08 - Diretivas do Angular
+    </th>
+     <th>
+      09 - Renderização condicional
+    </th>
   </tr>
   <tr>
-    <td>
-      ##### 10 - Eventos no Angular
-    </td>
+    <th>
+      10 - Eventos no Angular
+    </th>
   </tr>
     -->
 </table>
