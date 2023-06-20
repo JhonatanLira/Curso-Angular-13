@@ -1,5 +1,6 @@
-<img href="angular.png"/>
+<img  href="angular.png" align="left"/>
 <!-- https://angular.io/presskit-->
+
 # Curso Angular 13 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
