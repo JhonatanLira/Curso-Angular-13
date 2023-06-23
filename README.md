@@ -22,12 +22,10 @@
     <th>
       05 - Dados no template
     </th>
-  
-    <th>
+      <th>
       06 - CSS no Angular
     </th>
-  
-    
+  </tr>
   <tr>
     <th>
      07 - Compartilhamento de dados
