@@ -22,15 +22,18 @@
     <th>
       05 - Dados no template
     </th>
-    <!-- 
+  
     <th>
       06 - CSS no Angular
     </th>
-  </tr>
+  
+    
   <tr>
     <th>
      07 - Compartilhamento de dados
     </th>
+    </tr>
+    <!-- 
     <th>
       08 - Diretivas do Angular
     </th>
