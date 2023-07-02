@@ -26,12 +26,10 @@
       06 - CSS no Angular
     </th>
   </tr>
-  <tr>
+  <>
     <th>
      07 - Compartilhamento de dados
     </th>
-    </tr>
-    <!-- 
     <th>
       08 - Diretivas do Angular
     </th>
@@ -39,9 +37,18 @@
       09 - Renderização condicional
     </th>
   </tr>
+  <!--
   <tr>
     <th>
       10 - Eventos no Angular
+    </th>
+  <tr>
+    <th>
+      11 - Emitindo Eventos
+    </th>
+  <tr>
+    <th>
+      12 - Renderização de listas
     </th>
   </tr>
     -->
