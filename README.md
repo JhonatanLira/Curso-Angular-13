@@ -42,14 +42,57 @@
       10 - Eventos no Angular
     </th>
   </tr>
-  <!--
+  
     <th>
       11 - Emitindo Eventos
     </th>
+  </tr>
+  <!--
   <tr>
     <th>
       12 - Renderização de listas
     </th>
   </tr>
+  <tr>
+    <th>
+      13 - Importancia das interfaces no Angular
+    </th>
+  </tr>
+  <tr>
+    <th>
+      14 - Pipe Operators no Angular
+    </th>
+  </tr>
+  <tr>
+    <th>
+      15 - To way data binding no Angular
+    </th>
+  </tr>
+  <tr>
+    <th>
+      16 - Services do Angular
+    </th>
+  </tr>
+  <tr>
+    <th>
+      17 - Angular router
+    </th>
+  </tr>
+  <tr>
+    <th>
+      18 - Requisições HTTP
+    </th>
+  </tr>
+  <tr>
+    <th>
+      19 - Dynamic routers - selecionando dado individual  
+    </th>
+  </tr>
+  <tr>
+    <th>
+      20 - Excluindo dados pelo service
+    </th>
+  </tr>
+  //projeto
     -->
 </table>
