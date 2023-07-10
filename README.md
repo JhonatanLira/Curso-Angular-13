@@ -15,6 +15,7 @@
       03 - Estrutura do Angular
     </th>
   </tr>
+  
   <tr>
     <th>
       04 - Criando componentes
@@ -26,6 +27,7 @@
       06 - CSS no Angular
     </th>
   </tr>
+  <tr>
     <th>
      07 - Compartilhamento de dados
     </th>
@@ -41,8 +43,6 @@
     <th>
       10 - Eventos no Angular
     </th>
-  </tr>
-  
     <th>
       11 - Emitindo Eventos
     </th>
