@@ -46,13 +46,11 @@
     <th>
       11 - Emitindo Eventos
     </th>
-  </tr>
-  <!--
-  <tr>
     <th>
       12 - Renderização de listas
     </th>
   </tr>
+  <!--
   <tr>
     <th>
       13 - Importancia das interfaces no Angular
