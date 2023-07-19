@@ -50,17 +50,15 @@
       12 - Renderização de listas
     </th>
   </tr>
-  <!--
   <tr>
     <th>
       13 - Importancia das interfaces no Angular
     </th>
-  </tr>
-  <tr>
     <th>
       14 - Pipe Operators no Angular
     </th>
   </tr>
+  <!--
   <tr>
     <th>
       15 - To way data binding no Angular
