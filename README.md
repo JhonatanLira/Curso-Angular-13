@@ -57,13 +57,11 @@
     <th>
       14 - Pipe Operators no Angular
     </th>
-  </tr>
-  <!--
-  <tr>
-    <th>
+     <th>
       15 - To way data binding no Angular
     </th>
   </tr>
+  <!--
   <tr>
     <th>
       16 - Services do Angular
