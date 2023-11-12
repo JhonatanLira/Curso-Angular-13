@@ -61,12 +61,12 @@
       15 - To way data binding no Angular
     </th>
   </tr>
-  <!--
   <tr>
     <th>
       16 - Services do Angular
     </th>
   </tr>
+    <!--
   <tr>
     <th>
       17 - Angular router
