@@ -1,8 +1,10 @@
  <img src="angular.png" with="80" height="80" align="right">
 <!-- https://angular.io/presskit-->
 
-# Curso Angular 13 
+# Curso Angular 13
+
 <a href="https://www.youtube.com/playlist?list=PLnDvRpP8Bnex2GQEN0768_AxZg_RaIGmw">Matheus Battisti - Hora de Codar</a>
+
 <table>
   <tr>
     <th> 
@@ -65,13 +67,11 @@
     <th>
       16 - Services do Angular
     </th>
-  </tr>
-    <!--
-  <tr>
-    <th>
+     <th>
       17 - Angular router
     </th>
   </tr>
+    <!--
   <tr>
     <th>
       18 - Requisições HTTP
