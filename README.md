@@ -71,12 +71,12 @@
       17 - Angular router
     </th>
   </tr>
-    <!--
   <tr>
     <th>
       18 - Requisições HTTP
     </th>
   </tr>
+  <!--
   <tr>
     <th>
       19 - Dynamic routers - selecionando dado individual  
