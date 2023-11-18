@@ -70,8 +70,6 @@
      <th>
       17 - Angular router
     </th>
-  </tr>
-  <tr>
     <th>
       18 - Requisições HTTP
     </th>
