@@ -73,13 +73,11 @@
     <th>
       18 - Requisições HTTP
     </th>
-  </tr>
-  <!--
-  <tr>
-    <th>
+      <th>
       19 - Dynamic routers - selecionando dado individual  
     </th>
   </tr>
+  <!--
   <tr>
     <th>
       20 - Excluindo dados pelo service

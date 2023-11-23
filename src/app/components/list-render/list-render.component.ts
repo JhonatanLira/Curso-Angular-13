@@ -11,12 +11,6 @@ import { Component } from '@angular/core';
 export class ListRenderComponent {
 animals: Animal[] =[];
 
-animal:Animal = {
-  "name":"Teste",
-  "type":"Alguma coisa",
-  "age":10
-}
-
 animalDetail = '';
 
 constructor(private listService:ListService){

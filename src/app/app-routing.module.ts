@@ -4,9 +4,11 @@ import { FirstComponentComponent } from './components/first-component/first-comp
 import { ListRenderComponent } from './components/list-render/list-render.component';
 import { ChangeNumberComponent } from './components/change-number/change-number.component';
 import { IfRenderComponent } from './components/if-render/if-render.component';
+import { ItemDetailComponent } from './components/item-detail/item-detail.component';
 const routes: Routes = [
   {path:'', component: FirstComponentComponent},
   {path:'list', component:ListRenderComponent},
+  {path:'list/:id', component:ItemDetailComponent },
   {path:'change-number', component:ChangeNumberComponent},
   {path:'if-render', component:IfRenderComponent},
 ];
