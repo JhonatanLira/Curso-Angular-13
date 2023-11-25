@@ -82,7 +82,39 @@
       20 - Excluindo dados pelo service
     </th>
   </tr>
-    <!--
-  //projeto
+  <tr>
+    <th>
+      21 - Apresentação do Projeto  do Curso
+    </th>
+       <!--
+     <th>
+      22 - Setup API
+    </th>
+    <th>
+      23 - Setup Incial do Projeto
+    </th>
+  </tr>
+   <tr>
+    <th>
+      24 - Estruturando o Projeto
+    </th>
+     <th>
+      25 - CSS nos Componentes de layout
+    </th>
+    <th>
+      26 - Página do Projeto
+    </th>
+  </tr>
+   <tr>
+    <th>
+      27 - Criando Interfaces e configurando Módulos
+    </th>
+     <th>
+      28 - Validação de formulário com Reactive Forms
+    </th>
+    <th>
+      29 - Inserindo dados no Sistema
+    </th>
+  </tr>
     -->
 </table>
