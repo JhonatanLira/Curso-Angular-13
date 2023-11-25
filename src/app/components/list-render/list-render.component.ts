@@ -20,8 +20,8 @@ showAge(animal: Animal){
  this.animalDetail =`Amimail ${animal.name} tem ${animal.age} anos`
 }
 removerAnimal(animal:Animal){
-console.log('removendo animal...');
-this.animals = this.listService.remove(this.animals,animal);
+  this.animals = this.animals.filter((a)=> animal.name !== a.name);
+ this.listService.remove(animal.id).subscribe();
 }
   getAnimal(): void{
     this.listService.getAll().subscribe((animals)=> (this.animals = animals) );

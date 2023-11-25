@@ -75,16 +75,14 @@
     </th>
   </tr>
   <tr>
-      <th>
-      19 - Dynamic routers - selecionando dado individual  
-    </th>
-  </tr>
-  <!--
-  <tr>
     <th>
+     19 - Dynamic routers - selecionando dado individual  
+    </th>
+     <th>
       20 - Excluindo dados pelo service
     </th>
   </tr>
+    <!--
   //projeto
     -->
 </table>

@@ -3,25 +3,23 @@ import { Animal } from '../Animal';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Observable } from 'rxjs';
 @Injectable({
-  providedIn: 'root'
+  providedIn: 'root',
 })
 export class ListService {
+  private apiUrl = 'http://localhost:3000/animals';
 
-  private apiUrl ='http://localhost:3000/animals'
+  constructor(private http: HttpClient) {}
 
-  constructor(private http:HttpClient) { }
-
-  remove(animals:Animal[],animal:Animal){
+  remove(id: number) {
     //console.log('Ativando Service');
-    return animals.filter((a)=> animal.name != a.name);
+    return this.http.delete<Animal>(`${this.apiUrl}/${id}`);
   }
 
-  getAll():Observable<Animal[]>{
+  getAll(): Observable<Animal[]> {
     return this.http.get<Animal[]>(this.apiUrl);
   }
 
-  getItem(id: number): Observable<Animal>{
-
+  getItem(id: number): Observable<Animal> {
     return this.http.get<Animal>(`${this.apiUrl}/${id}`);
   }
 }
