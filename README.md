@@ -81,11 +81,10 @@
      <th>
       20 - Excluindo dados pelo service
     </th>
-  </tr>
-  <tr>
     <th>
       21 - Apresentação do Projeto  do Curso
     </th>
+  </tr>
        <!--
      <th>
       22 - Setup API
