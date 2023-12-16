@@ -85,11 +85,11 @@
       21 - Apresentação do Projeto  do Curso
     </th>
   </tr>
-       
+  <tr>
      <th>
       22 - Setup API
-    </th>
-
+      </th>
+  </tr> 
     <!--
     <th>
       23 - Setup Incial do Projeto
